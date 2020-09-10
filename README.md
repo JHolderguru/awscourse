@@ -14,3 +14,16 @@
 #### Scheduled Instances - Scheduled Instances allow you to reserve Amazon EC2 instances on a recurring Schedule. You can purchase daily, weekly, or monthly reservations to ensure your applications have the compute capacity you need, when you need it.
 
 #### Capacity Reservations - Capacity Reservation requests are granted or denied based on your EC2 instance limits and our available capacity. When you create a Capacity Reservation, we reserve the specified capacity for your use. The reserved capacity is charged at the selected instance type’s On-Demand rate whether an instance is running in it or not. You can also use your regional reserved instances with your Capacity Reservations to benefit from billing discounts.
+
+
+## Public, Private and Elastic IP addresses
+
+#### Lost when the instance is stopped
+#### Used in Public Subnets, No charge, Associated with a private IP address on the instance, Cannot be moved between instances.
+## Private IP address
+#### Retained when the instance is stopped Used in Public and Private Subnets.
+## Elastic IP address
+#### Static Public IP address
+#### You are charged if not used
+#### Associated with a private IP address on the instance
+#### Can be moved between instances and Elastic Network Adapters
