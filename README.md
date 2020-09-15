@@ -22,8 +22,8 @@
 #### Used in Public Subnets, No charge, Associated with a private IP address on the instance, Cannot be moved between instances.
 ## Private IP address
 #### Retained when the instance is stopped Used in Public and Private Subnets.
-## Elastic IP address
-#### Static Public IP address
-#### You are charged if not used
-#### Associated with a private IP address on the instance
-#### Can be moved between instances and Elastic Network Adapters
+## Elastic IP address.
+#### Static Public IP address.
+#### You are charged if not used.
+#### Associated with a private IP address on the instance.
+#### Can be moved between instances and Elastic Network Adapters.
