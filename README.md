@@ -27,3 +27,13 @@
 #### You are charged if not used.
 #### Associated with a private IP address on the instance.
 #### Can be moved between instances and Elastic Network Adapters.
+
+#### Access your s3 bucket via the AWS CLI
+
+```git
+aws s3 ls
+aws configure
+```
+#### Get an access key ID from your IAM and paste
+#### Paste the Secret Access key
+#### 
