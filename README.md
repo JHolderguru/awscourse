@@ -36,4 +36,4 @@ aws configure
 ```
 #### Get an access key ID from your IAM and paste
 #### Paste the Secret Access key
-#### 
+#### Voila!
