@@ -30,7 +30,7 @@
 #### Access your s3 bucket via the AWS CLI
 
 ```git
-aws s3 ls
+aws s3 ls (list)
 aws configure
 ```
 #### Get an access key ID from your IAM and paste
